@@ -1,5 +1,5 @@
 body {
-    background-image: url("photo-1545193544-312983719627_ixlib=rb-1.2.webp");
+    background-image: url("photo-1530908295418-a12e326966ba");
     background-size:cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -94,4 +94,5 @@ button:hover {
 #hourly-heading {
     color: #fff;
     margin-top: 10px;
+
 }
